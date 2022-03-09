@@ -17,6 +17,12 @@
     margin: 0 auto;
 }
 
+#score {
+    position: relative;
+    top: 40%;
+    word-wrap: break-word;
+}
+
 button {
     cursor: pointer;
 }
